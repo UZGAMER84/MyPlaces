@@ -2,7 +2,7 @@
 //  MainViewController.swift
 //  MyPlaces
 //
-//  Created by Bobur Yusupov on 05/04/21.
+//  Created by Bobur Yusupov on 05/04/21..
 //
 
 import UIKit
